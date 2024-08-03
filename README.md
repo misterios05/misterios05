@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Machado</h1>
+<h1 align="center">Hi! , I'm Lucas Machado</h1>
 <h3 align="center">A technology lover, and a frontend and backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misterios05&label=Profile%20views&color=0e75b6&style=flat" alt="misterios05" /> </p>
